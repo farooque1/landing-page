@@ -10,14 +10,14 @@ function Header() {
       </div>
       <div className='container-fluid'>
         <section className='row  text-center mb-3'>
-          <div className='col-lg-3  col-md-6 col-xs-12 header mt-5'>
+          <div className='col-lg-3  col-md-4 col-xs-12 header mt-5'>
             <i class="fa  fa-handshake-o fa-2x mt-2" aria-hidden="true"></i>
             <h4>EASILY FITS</h4>
             <p>Lorem ipsum, dolor sit amet <b />
               consectetur adipisicing elit</p>
             <div className='hr1' ></div>
           </div>
-          <div className='col-lg-5 col-md-6 col-xs-12'>
+          <div className='col-lg-5 col-md-4 col-xs-12'>
             <div className='semi-circle'>
               <img src={most} alt='most' width='20%' />
               <h4> Instant Water Heater* </h4>
@@ -26,7 +26,7 @@ function Header() {
                 consectetur adipisicing elit.</p>
             </div>
           </div>
-          <div className='col-lg-4 col-md-6 col-xs-12 header mt-5'>
+          <div className='col-lg-4 col-md-4 col-xs-12 header mt-5'>
             <i class="fa  fa-hourglass-end fa-2x" aria-hidden="true"></i>
             <h4>STRONGER <br />CONSTRUCTION QUALITY</h4>
             <p>Lorem ipsum, dolor sit amet consectetur<br />
@@ -45,7 +45,7 @@ function Header() {
             <div className='hr3' ></div>
           </div>
 
-          <div className='col-lg-6 col-md-12 col-xs-12 header'>
+          <div className='col-lg-6 col-md-6 col-xs-12 header'>
             <i class="fa fa-bullseye fa-2x" aria-hidden="true"></i>
             <h4>DESGINED FOR HIGH RISE BUILDINGS</h4>
             <p>Lorem ipsum, dolor sit amet consectetur
